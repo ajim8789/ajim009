@@ -131,10 +131,10 @@ nav.sticky .menu-btn {
   color: #fff;
 }
 .ift {
-  display: none ;
+  display: none;
 }
 .profile-logo {
-  display:none;
+ display: none;
 }
 
 .profile-logo img {
@@ -577,7 +577,7 @@ footer .text span a:hover {
   .text-two {
     font-size: 50px;
   }
-  .ift {
+ .ift {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -594,7 +594,7 @@ footer .text span a:hover {
   display: flex;
   align-items: center;
   justify-content: center; 
-}
+ }
  }
 @media (max-width: 1190px) {
   section .content {
